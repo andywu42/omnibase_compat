@@ -2,7 +2,7 @@
 # SPDX-License-Identifier: MIT
 
 # COMPAT_MIGRATION_TARGET: omnibase_core.models.contracts.evidence.model_contract_evidence_proof
-# COMPAT_REMOVAL_DATE: 2026-07-01
+# COMPAT_REMOVAL_DATE: 2026-10-01
 
 """ModelContractEvidenceProof — artifact-first or behavior-first proof item."""
 

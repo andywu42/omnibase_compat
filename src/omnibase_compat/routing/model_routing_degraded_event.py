@@ -2,7 +2,7 @@
 # SPDX-License-Identifier: MIT
 
 # COMPAT_MIGRATION_TARGET: omnibase_core.models.routing.model_routing_degraded_event
-# COMPAT_REMOVAL_DATE: 2026-07-01
+# COMPAT_REMOVAL_DATE: 2026-10-01
 
 """ModelRoutingDegradedEvent — emitted when the router flips to fallback."""
 

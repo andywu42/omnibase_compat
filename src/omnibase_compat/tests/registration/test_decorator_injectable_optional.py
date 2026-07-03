@@ -1,5 +1,6 @@
 # SPDX-FileCopyrightText: 2025 OmniNode.ai Inc.
 # SPDX-License-Identifier: MIT
+# compat-skip-retention: test scaffolding (local fixture classes), not a migration model
 """Tests for @injectable_optional decorator."""
 
 from __future__ import annotations

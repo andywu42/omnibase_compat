@@ -2,7 +2,7 @@
 # SPDX-License-Identifier: MIT
 
 # COMPAT_MIGRATION_TARGET: omnibase_core.protocols.protocol_projection_database_sync
-# COMPAT_REMOVAL_DATE: 2026-07-01
+# COMPAT_REMOVAL_DATE: 2026-10-01
 
 from __future__ import annotations
 

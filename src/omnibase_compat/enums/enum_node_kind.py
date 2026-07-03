@@ -1,7 +1,7 @@
 # SPDX-FileCopyrightText: 2025 OmniNode.ai Inc.
 # SPDX-License-Identifier: MIT
 # COMPAT_MIGRATION_TARGET: omnibase_core.enums.enum_node_kind
-# COMPAT_REMOVAL_DATE: 2026-07-01
+# COMPAT_REMOVAL_DATE: 2026-10-01
 
 # SOURCE: omnibase_core/src/omnibase_core/enums/enum_node_kind.py
 # SOURCE VERSION: omnibase-core==0.24.1
